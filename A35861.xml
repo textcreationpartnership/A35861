@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between a monkey in the Old Bayly and an ape in High Holbourn</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35861</idno>
+            <idno type="STC">Wing D1296</idno>
+            <idno type="STC">ESTC R29713</idno>
+            <idno type="EEBO-CITATION">11196329</idno>
+            <idno type="OCLC">ocm 11196329</idno>
+            <idno type="VID">46680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46680)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between a monkey in the Old Bayly and an ape in High Holbourn</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46680:1"/>
+            <pb n="1" facs="tcp:46680:1" rendition="simple:additions"/>
+            <head>A DIALOGUE BETWEEN A Monkey in the Old Bayly AND AN Ape in High Holbourn.</head>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>VVHat's the matter Brother? you'l not ſpeak of late without An<g ref="char:EOLhyphen"/>ger and Paſſion uſhers in the Diſcourſe, I am ſorry my Cracking of Nuts diſturbs your Repoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>The Devil take your Cracking for me, it may eaſily be heard to the upper end of <hi>Holbourn:</hi> A Gentleman can't be a little Apiſhly diſpoſed in Propoſitions, and Obſervations, or the like, but preſently its ſwallowed into the All-fogies of your Courant: the noiſe hath ſpoiled, I am ſure, many a <hi>Friday</hi> mornings Nap, after whole Nights Obſervatoring.</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>Why? Hath not Monkeys as much priviledge for to write <hi>Courants</hi> for mony to buy Nuts, as Apes <hi>Obſervators</hi> for mony to buy Aples.</p>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>No, you unmannerly Monkeys-Face, I think not, is there no difference between the Shepherd and his Dog? an Ape is a Gentleman, and by vertue of his Deſcent claims a great many Priviledges as his Birth-Right.</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>As much Manners as your Worſhip, and as well Deſended, if that be a ſuffici<g ref="char:EOLhyphen"/>ent tolleration for Scribling; nay, I never heard but a Monkey had the precedence, if not for Gentillity, yet for Honeſty, for the world knows you are a ſort of Creature that will be imitating: I believe the Gentleman pretended, is but one of your Apiſh tricks; but pray wherein lies your peculiar priviledge above the Monkey?</p>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>That it may be a Correction to your Sawcineſs, Ile tell you: My Patent, like ſome ſort of Pardons, was ſtampt by Creation, and is of ſo extenſive a Nature, that I have liberty to Fidle all ſorts of Tunes, either <hi>Regal</hi> or <hi>Oliverian,</hi> to ſpeak all ſorts of Tongues, either <hi>Italian</hi> or <hi>Engliſh,</hi> to be of any <hi>Religion, Chriſtian</hi> or <hi>Inſidel, Proteſtant</hi> or <hi>Papiſt,</hi> to keep any Company, either Maſters or Apprentices, to be diſpenced with as to Eccleſiaſti<g ref="char:EOLhyphen"/>cal Cannons, in going to Church once a Year, inſtead of once a Month: to Ape any Office either in Church or State, to give Rules of Guidance not only to Eccleſiaſtical, but Secular Politicks too: theſe and ten thouſand more I could give you, but I muſt obſerve my Vow of Mortification: my ſit is coming, I begin to ſwell, in a word know then I am the Center in which all Actions and Publick Reſolutions for the Service of the Government, and what is done injurious to the King, or his Friends, meet.</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>Cheap enough; who would wrong ſo Innocent a Soul? Did not I tell you, <hi>Roger,</hi> the property of an Ape: becauſe the Printers Wife Paints her Face, therefore you muſt: a perſon of Honour had a Pardon come out of Paradiſe, therefore forſooth your Patent muſt be one of the ſix days Work too; but the Lawyers tell me that odd name was given the Child, becauſe the Office of Baptiſm was performed after the <hi>Presbyterian</hi> way, without God-Fathers, it being a Basketted thing, found at the door, and like to be kept by the great Pariſh-Stock, the Church-Warden of St. <hi>Martins</hi> was not very curious in the thing, but your Patent is to my knowledg of a different Nature, having paſt the uſual Offices, as <hi>Billings-Gate, New-Gate, S—Houſe, Weſtminſter-Hall, Sadlers-Hall, Doctors Com<g ref="char:EOLhyphen"/>mons,</hi> &amp;c. Oh me and St. <hi>Giles</hi>'s Church too, (no further I hope that way yet) nay I have heard of a Commiſſion that you have to ſeize all the Diſcourſe of the <hi>Weſtphalia</hi> Folks, and all the talk over a Glaſs of Wine, as Prohibited Goods: Ah poor Pugg, look to thy ſelf, thou knoweſt the man bragged he had power to ſeize Monkeys too: but Brother now I ſee your ſits almoſt over, either do it your ſelf or give me leave to Read a few Lines more of that Famous Patent.</p>
+            </sp>
+            <pb n="2" facs="tcp:46680:2" rendition="simple:additions"/>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>Pray do, the more you look, the worſe you like; there is enough to make all the Monkeys in the world tremble!</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>
+                  <hi>The more Danger the more Honour: Nothing Venter nothing Have:</hi> Oh Heavens what omiſſions you made, certainly you are the happieſt man in the world, both for Privi<g ref="char:EOLhyphen"/>ledges and Prerogative! What, to write any thing, whether True or Falſe! to Abuſe any perſon whether deſerved or not: to ſay White is Black, or Black is White, to obtain an end: to ſay Popery is Proteſtantiſm, or Proteſtantiſm Popery; to write one week in Vin<g ref="char:EOLhyphen"/>dication of one Party, and for diverſion ſake the next <hi>Monday</hi> Morning fall upon the per<g ref="char:EOLhyphen"/>ſons Vindicated; to perſwade the people that its the Intereſt of Proteſtants to be very cau<g ref="char:EOLhyphen"/>tious of entertaining any ill opinion of the Genteel Papiſts: to be a Commonſhore for Con<g ref="char:EOLhyphen"/>tribution to empty it ſelf into, as well from—Houſe, as <hi>Ely</hi>-Houſe, to write Hiſtories of Conſpiracies, to Correct the Plotters miſtakes in their own Diſcoveries: to perform ſomtimes the Prieſts Office in Marrying Popery and Presbyterianiſm together, and making a modeſt Son of the Church Father too; calling Parliaments the Rabble of the Nation, and re<g ref="char:EOLhyphen"/>preſenting the Councels and Debates of their Houſe as Ridiculous as the Conſult of Addreſ<g ref="char:EOLhyphen"/>ſers at the <hi>Wonder!</hi> Calling Lord Mayors and Courts of Aldermen a company of Impudent Fellows: and Zeal againſt Popery, Faction and Rebellion: Arraigning the Government, Appeals to the Rabble, and the like: to juſtifie the Papiſt as the Loyal Race of mankind, and wipe off Plots and Conſpiracies, as Aſperſions caſt upon thoſe men: and to excuſe all by vertue of that Honeſt Maxim, <hi>It is my Trade, I am paid for what I do.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>Stay, ſtay, the old Diſtemper, my Tympany, begins again to ſeiz my Spirits, time is too ſhort a ſpace to Read it in, Il'e give it you in ſhort: I can be what I will, do what I will ſpeak what I will, write what I will, abuſe who I will, commend who I will, and all this without Reaſon, Sence, Honeſty, or Conſcience: under this one pretence of Loyalty, and being ſerviceable to the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <l>
+                  <hi>Its well you ſtopt me (I began to tire)</hi>
+               </l>
+               <l>
+                  <hi>And gave me breath a little to admire.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>What is your Monkeyſhip of the Poetical Tribe, a company of Treacherous Raſ<g ref="char:EOLhyphen"/>cals: you ſhall be ſent to <hi>Oxford</hi> to Crack Nutts: to ſee a Loyal Gentleman inveſted with a Garment of many Colours, is that a thing ſo much to be admired at: I believe it rather an Object of Envy than Admiration.</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>You are miſtaken, I Envy neither the great Chair, nor the peaceable thing that ſits in it, but if I ſee a Fools Coat upon a Knaves back, and admire a little, who can hinder me? perhaps I have a mind to give my Eyes a Fairing in an Ocular glut upon ſo pertty an Object, for it falls out ſometimes, that he that is <hi>Andrew</hi> upon the Stage, is Maſter of the Show in the Booth; or which is all one, he that is a Papiſt about the <hi>Middle-Row,</hi> is a Son of the Church as by Law Eſtabliſht, at St. <hi>Giles</hi>'s; or if you conſider him the other way, by that time he comes in <hi>Fanchurchſtreet,</hi> by his Arrival with Dr. <hi>Fell</hi> at the <hi>Hague,</hi> (you know the Sea is Purgative) its petty Treaſon then to queſtion the ſincerity of the Converſion, or a kind of making the Government hold up its hand at the Barr. But why Brother ſhould you be againſt the Poetical Tribe? Methinks this a kind of Reflection upon <hi>Marchiment Needham,</hi> and your Maſters Servant in <hi>Salisbury</hi> Court, a kind of Arraigning the Muſes, and the Menial Miſſes too: for my part I had rather go to <hi>Oxford</hi> to Crack Nuts, than to <hi>Rome</hi> for Filbirds, my Dinner upon a <hi>Courant</hi> in the <hi>Old Bayly,</hi> pleaſes me as well as Dining upon <hi>Obſervators</hi> at <hi>Sadlers-Hall,</hi> I had as live write for men, as Boys, and keep them Company when I have done; and have as much Fortune as my Standiſh will hold, to ſtand by them.</p>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>You Uncharitable and unmannerly Raſcal, would I had but an Inquiſition for your ſake, and my great Chair in power, I would ſoon make you fell the weight of a Sentence that would ſire you and your Courant about your Eears: what do you take me to be Jack on both ſides, one half a Proteſtant, and the other a Papiſt?</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>A Wit, a wit! An excellent hand at gueſſing Il'e Vow, he has Robbed me of the very Secrets of my Soul. A Jack-an-Apes on both ſide? yes hang me if that be not my thoughts, and that the left is the <hi>Romaniſt,</hi> becauſe 'tis the Heart ſide; and you muſt not be affronted at my Opinion, for I am under the Conduct of one Mr. <hi>L.</hi> in the matter; inferior things you know muſt be guided, whether in Eccleſiaſtical or Civil Affairs. When Catholicks has ſpoke ſuſpiciouſly of your Sincerity in the Cauſe, you always had my good word. I challenge ſpoke ſuſpiciouſly of your Sincerity in the Cauſe, you always had my good word. I challenge the moſt unbelieving man of them all to produce one ſingle inſtance, that ever any Ape in the World ſpoke a word in his whole Life againſt the Church of <hi>Rome,</hi> and I am ſure you are too much a Gentleman to act Retrograde to your own Nature; for moſt of the publick Villanies charged upon the men of that Communion ſince the Diſcovery of the Plot, you have by a delicate kind of <hi>Habeas Corpus,</hi> removed the Guilt, and with Pen in one hand, and Paper in t'other, Aped behind the Diſſenters Aſſes, and at the Lappet of his Coat fixed the whole In<g ref="char:EOLhyphen"/>formation, and ſo by a <hi>STRANGE</hi> kind of Metamorphoſis his next Excrements becomes a Plot againſt the Government.</p>
+            </sp>
+            <sp>
+               <speaker>Ape,</speaker>
+               <p>What need all theſe innumerations, Sirrah? for all this is within the power of my Commiſſion, that ſince I know their thoughts better than they do themſelves, why may not I
+<pb n="3" facs="tcp:46680:2"/>be permitted to ſpeak their words, and to ſpeak any thing for ſuch too, and then Beacon like warn the people of the danger, and if the don't come in quickly with their Contributions as well as others; I will ſend a Regiment or Two of <hi>Obſervators</hi> amongſt them, to proceed to Millitary Execution, and then you ſhall ſee them Void nothing but Axes Hatches, and Gib<g ref="char:EOLhyphen"/>bets, and the like Inſtruments of Death and Deſtruction: but who can charge the Genteel and Faſhionable Religion of the <hi>Romaniſts,</hi> with any ſuch Practice? they are too much Gentlemen to be Enemies to the King, or the Eſtabliſht Religion: to be concern'd in Plots, and Conſpiracies againſt the Government in ſuch low and diſhonourble things as Burnings and Maſſacres: theſe actions more ſute the Genius of the Mechanical Presbyterian, Dunghil-bred Diſſenter, or the Clowniſh Conformiſt, that never conſulted nothing but the <hi>Engliſh</hi> Bible, Bi<g ref="char:EOLhyphen"/>ſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi>'s Body of Divinity, the <hi>Dutch</hi> Anotations, or ſo, but thoſe who have denoted themſelves Diſciples to <hi>Bellarmin, Thomas Acquinas,</hi> with the reſt of thoſe great and Heroick Souls, and have had their conſtant Converſation among Gentlemen, you may as well per<g ref="char:EOLhyphen"/>ſwade me that <hi>Endimions</hi> Palace is made of Green Cheeſe, or that <hi>Veſper</hi> once ſtole a Flitch of Bacon out of a <hi>Finchly</hi> Chimney, and carried it clear away from the poor Ruſtick into his own Region, as to talk me into a belief, that thoſe accompliſhed Gentlemen of the Church of <hi>Rome,</hi> ſhould be guilty of ſuch Clowniſh and home-ſpun Deportments as the late noiſe makes them, a man may ſweep away this Duſt, without doing any harm to Pavement, Altar, Chancel, nay Iſle, Belfrey or Steeple.</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>Or <hi>Weathercock</hi> either. Ha boy <hi>Hal,</hi> well done <hi>Roger,</hi> Cokes him Pugg, is this one of the Tunes that was plaid before <hi>Oliver?</hi> This is a Genteel come off indeed, The Hiſtory of the Plot, The Diſſenters Sayings, <hi>Richard</hi> and <hi>Baxter, Ephraim</hi> and <hi>Ezekiel;</hi> The Caſe put are Idle and Ridiculous things to this: here's an exact account of the growth of Knavery indeed; Certainly none but <hi>Colledges</hi> Grand Jury can queſtion ſuch Evidence as this: here is the Doctrine of Probability all-over, and the Myſtery of <hi>Jeſuitiſm</hi> unvailed; without queſtion, this was blown out of a <hi>Roman-Noſe:</hi> I don't queſtion, hadſt thou but the Phana<g ref="char:EOLhyphen"/>ticks in thy power, they ſhould all be cut out into two penny Chops, and Stued in a <hi>Philip</hi> and <hi>Mary</hi> Pipkin; doſt not think a good Honeſt Church-man, by way of Addition, would not make the Broth and Sippets the better? I believe to ſuck boths Bones would have an equal ſweetneſs in your Palate, but yet I commend thee, <hi>Roger,</hi> (for its pitty but the Devil ſhould have his Due) its an act of kindneſs to give them warning, thou ſcorneſt to let the Gentry be run down, being with in the Lines of Communication your ſelf, if one may run the hazard of believing you: for one of the <hi>Gadburian</hi> Tribe in the Antient <hi>Bailey</hi> (a good <hi>Care</hi>-full Fellow, tells the world he has Calculated your Nativity, and that a three penny <hi>Planet</hi> Ruled the Roſt, others ſay it is becauſe of an Apiſh Habit of lolling, that your Doublet is ſo often out at Elbows: Its pitty truly that a Gentleman ſhould be born under ſuch a Beg<g ref="char:EOLhyphen"/>garly Influence, and under the inevitable controul of ſuch Apiſh and deſtructive Geſtures: but an Ape will be an Ape, what ſays <hi>Scoging?</hi> who can reaſonaby expect Oats in the Excre<g ref="char:EOLhyphen"/>ments, when the Horſe never eat any thing elſe but Hay and Straw? this is the ſtrenuouſeſt Ar<g ref="char:EOLhyphen"/>gument againſt the Validity of the Evidence of a Popiſh Plot, that ever the world yet heard of what Clowniſh and unmannerly Generation of men thoſe are that aſperſe Gentlemen at this Rate who have parts and Breeding of their own, and Perſons of Quality to their Parents? Men that have ſuch Brave and Generous Principles Hereditary to them, to charge them with Plots, is a little hard, I confeſs, and upon a due Conſideration of the Premiſes, I am a little wa<g ref="char:EOLhyphen"/>vering in the matter my ſelf: (here is Obſervatoring for you, <hi>Care</hi>) enough to ſtop your Mouth to Eternity; but I know you'l ſay, It's either a <hi>Leſtrange</hi> or a <hi>Strange-Lee,</hi> and if you do I cant help it, Droll and Impudence are of as comfortable Importance to the Gent. as any <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> Divine ever had to his Back: well you have brought the People of the Church of <hi>Rome</hi> off with Drums beating and Colours Flying, I have nothing more to ſay, I am forc'd to yield to the Strength of Argument: But before we part Prethee lets have your Opinion about this new or Proteſtant Plot, do you think Its Real or no?</p>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>This Queſtion Tickles my Fancy, indeed I wayted for it all this while, for you muſt know I have a Double Obligation upon me to bring one off, and the other on, but when I talk of a Proteſtant Plot, I would not be miſunderſtood in the Definition, as if it was to be attribu<g ref="char:EOLhyphen"/>ted ſolely to the Diſſenters from the Eſtabliſhed Church; for we have a ſort of Unthinking Church-Men now a days, underſtanding not Articles aright, think themſelves in Charity ob<g ref="char:EOLhyphen"/>lidged to have Reſpectful thoughts of their Diſſenting Brethren: that make a great ſtir about the Virtues of Love and Peace which the Goſpel enjoins. And look upon it as abſolutely ne<g ref="char:EOLhyphen"/>ceſſary for the ſecuring the Proteſtant Religion that a good Correſpondence be maintained betwixt the two parties, ſo that I would be underſtood in this Conjunctive ſignification in the matter, for we have People under the Denomination of moderate Sons of the Church, that I can't in Conſcience Diſcharge, they carry it ſo fairly to the Diſſenters, and are in many particulars worſe; and to make the matter more plain, I muſt take up the Clergy too, that make too great Noiſe upon the fifth of <hi>November,</hi> and will not pay their Contribution mony to a Gentleman that ſpends himſelf for the ſervice of the Church, who to Render him the more Capable is oblidg'd to Dwell after the other end of Town <hi>Grandure,</hi> and I believe be<g ref="char:EOLhyphen"/>tween theſe two, a thing call'd the Proteſtant Plot was begotten, and none but a ſort of Infi<g ref="char:EOLhyphen"/>dels will queſtion it; for my part, it hath found a Room in my Creed already, and I ſhall make it my buſineſs to maintain the Truth of it to the laſt drop of Ink in my Standiſh.</p>
+            </sp>
+            <pb n="4" facs="tcp:46680:3"/>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>This is brave indeed! Gallantly ſpoke, I'll aſſure you: This makes a very con<g ref="char:EOLhyphen"/>ſiderable Addition to your former Accompliſhments, and in my opinion ſets you down very near the Pale of Perfection, I mean that ſide which you ſay <hi>Diſſenters</hi> finiſhed their Courſe on. Certainly he that taught an Ape to hold a Candle, was mighty ingenious, for then the Crea<g ref="char:EOLhyphen"/>ture was made a kind of Luminary to the World, and was in his kind very ſerviceable. I knew, <hi>Roger,</hi> how to pleaſe thy Fancy, for I found thee always expreſſing a great deal of pleaſure when ſome occaſion was found of expoſing the Proteſtant Intereſt, though the thing quarrelled at, never was heard of before. The Proteſtants are mightily beholden to you for your good Service indeed; and they are mighty ungrateful that do not publickly own it, as well as privately contribute for it: For my part, was I not well acquainted with your Nature and Temper, I could ſcarce believe any Creature upon Earth could ever have arrived at that degree of Impudence as to pretend himſelf a Gentleman to whom the Church of <hi>England</hi> is ſo much in debted for his good Offices he has done her. If you had ſaid the Church of <hi>Rome,</hi> I would have ſoon believ'd you, for there is no man in the whole world that is acquainted with your Pamphlets and the Circumſtances of the Papiſt in the preſent conjuncture, but will be obliged in Reſpect to Truth, to own that your Scribling of late hath been as Serviceable to thoſe ſort of men as any thing in the whole World could be. As ſeveral of the Learned and Reverend of the Conforming Clergy hath, as occaſions have preſented, Declared, and it is no acquittal from the Clergy to object, that you have wrot in the vindication of the Eſtabliſhed Church, for I look upon that meerly as a Cloack for Malicious Inſinuations to paſs the more unſuſpectedly; you do not, becauſe you Durſt not do that; beſides its inconſiſtent with the Cauſe you have eſpouſed that you ſhould, for under the notion of being a Stickler for the Church, the work is Accompliſhed, Perſons being apt to Conclude that ſuch a Perſon Deſigns no Ill, that makes a Noiſe about the Church, though there is few Perſons whoſe Converſation hath been any thing publick, but hath heard as much from the moſt Profeſſed Papiſt, now I think never the better of ſuch a man in this Commending Humour, becauſe I know him to be ſuch an avowed Enemy to the Church, that nothing would pleaſe him better than to ſee her as well as the Diſ<g ref="char:EOLhyphen"/>ſenters partakes in the ſame Calamitous Subverſion, though for the preſent it comports not with his Intereſt to Diſcover the true Sentiments of his Soul: But the Hypocrite ſome way or other is uſually a ſelf Diſcoverer; what Labour and Pains hath a few Hackney Rogues in Print taken to Evince the Reality of a Proteſtant Conſpiracy, expreſſing thereby the De<g ref="char:EOLhyphen"/>lightfulneſs of their Souls, to Endeavour to Impreſs ſuch A belief upon the minds of men and in doing this, what Inſinuations they give us that the Popiſh Plot is a little queſtionable, and that we muſt not be too forward in giving a believing Entertainment to the Evidence about one; but on the Proteſtant ſide, every Undutiful word of a heated Brain muſt without Controul be Repreſented as a Plot againſt the Government: Now can any Perſon of Conſideration with Reſpect to the Proteſtant Intereſt, think theſe men any Friends to it, who make it their Buſineſs to Impair the Credit of the <hi>Popiſh</hi> Conſpiracy, and to Advance the other: And to muſter up the moſt notorious Lies and Falſhoſhoods to Confirm the Story: Well Brother, let me but ask one queſtion more and I will treſpaſs upon your patience no farther at preſent; What is the Reaſon the <hi>French</hi> King is ſo much in your Favour that you paſs over his <hi>Proceed<g ref="char:EOLhyphen"/>ings againſt</hi> the <hi>French</hi> Proteſtants with ſo kind an Obſervator?</p>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>Becauſe A Company of <hi>Whiggs</hi> tell ſuch Improbable Stories of the Cruelty that is ſhown them, that none but A man with four Leggs could ever be Guilty of.</p>
+            </sp>
+            <sp>
+               <speaker>Monkey.</speaker>
+               <p>
+                  <hi>What An unpar allel'd Error have I been in all this while! I always thought</hi> Queen Mary <hi>and the Reſt of the Popiſh Princes with us that was ſo Cruel in Burning and Deſtroying ſo many Proteſtants had been Perſons that had but two Leggs and two Hands a Piece: I had the like Opinion Concerning Bloody Biſhop</hi> Bonner, Gardiner, <hi>and the reſt of the Murdering Clergy of thoſe times, that ſo Barbdrouſly uſed ſo many Proteſtants Miniſters and others amongſt us, I always thought the ſame of all thoſe Maſſacrating People, (the Popiſh Prieſts and others) in</hi> Ireland, <hi>that ſo Inhumanely murdered ſo many thouſand Men Women and Children: And the Popes too; (that are a Sort of Creatures, as the Papiſt ſay, neither Men nor Gods) at whoſe Charge all thoſe Savage Murders of Proteſtants in all Ages are to be Laid, which may juſtly make that Religion odious to all Mankind; I ſay, I always thought that theſe Infallible Murderers of Proteſtants had not no more Hands and Leggs neither: And that you may have a</hi> French <hi>Story too, I believed the ſame of thoſe that Carried on the Maſacre at</hi> Paris. <hi>What art a</hi> French <hi>Pentioner too,</hi> Roger? <hi>is this alſo Contribution work? I had thought you had only under-taken the Vindication of our</hi> Engliſh <hi>Catho<g ref="char:EOLhyphen"/>licks: But</hi> I <hi>ſee I was miſtaken, I hope ſuddenly, to ſee the</hi> French <hi>Kings pretences in</hi> Flanders <hi>and</hi> Germany, <hi>juſtified at a Dialogue between a</hi> Dutch <hi>Whigg and a</hi> French <hi>Tory; well Ile ſay but one word to take off the Fears and Jealouſies if the People, and then bid you adieu; and 'tis only this, That they would Entertain no fear of a Papiſt, nor a Popiſh Succeſſor, till they ſee one that hath four Leggs and four Hands, for he that has but two a piece can never beable to hurt them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ape.</speaker>
+               <p>
+                  <hi>No more they can't; and none but A Company of Ignorant Whiggs will fear it.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>John Johnſon.</hi> 1681.</p>
+            <pb facs="tcp:46680:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
